@@ -25,8 +25,8 @@ themes {
       emphasis_3 156 207 216
     }
     ribbon_unselected {
-      base 35 33 54
-      background 224 222 244
+      base 224 222 244
+      background 68 65 90
       emphasis_0 246 193 119
       emphasis_1 234 154 151
       emphasis_2 196 167 231
